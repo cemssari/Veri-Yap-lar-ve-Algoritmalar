@@ -6,18 +6,18 @@
 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 
-# [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-#1.[22,27,16,2,18,6] aşamaları;
+__1.[22,27,16,2,18,6] aşamaları;__
 [2,27,16,22,18,6]
 [2,6,16,22,18,27]
 [2,6,16,18,22,27]
 
-# 2.Big-O gösterimi: n(n+1)/2 O(n^2)
+ 2.Big-O gösterimi: n(n+1)/2 O(n^2)
 
-# 4.Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
+Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
 
-# [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:
+[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:
 
 1.[2, 3, 5, 8, 7, 9, 4, 15, 6]
 2.[2, 3, 4, 8, 7, 9, 5, 15, 6]
